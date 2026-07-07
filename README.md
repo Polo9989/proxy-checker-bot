@@ -27,7 +27,7 @@ concurrently with live progress updates in Telegram.
 ### 1. Clone & install
 
 ```bash
-git clone <repo>
+git clone https://github.com/Polo9989/proxy-checker-bot.git
 cd proxy_bot
 python -m venv .venv
 source .venv/bin/activate
