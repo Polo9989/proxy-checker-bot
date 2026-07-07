@@ -1,0 +1,10 @@
+app = "proxy-checker-bot"
+primary_region = "iad"
+
+[build]
+
+[deploy]
+  release_command = "echo deploying"
+
+[processes]
+  app = "python main.py"
